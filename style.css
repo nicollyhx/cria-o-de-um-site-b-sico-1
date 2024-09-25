@@ -1,0 +1,10 @@
+body{
+    color:blueviolet;
+    background-color: hotpink;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
