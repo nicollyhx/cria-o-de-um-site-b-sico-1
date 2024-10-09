@@ -23,3 +23,11 @@ img {
     border-radius: 50%;
     border: 5px solid #5bbe42;
 }
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: #5bbe42;
+}
